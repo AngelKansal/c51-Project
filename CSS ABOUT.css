@@ -1,0 +1,35 @@
+.main{
+    text-align: center;
+    color: #1E3E07;
+}
+.grid{
+     text-align: center;
+}
+body {
+    background-color: coral;
+  }
+  .photos{
+      text-align: center;
+  }
+  .fee{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .classes{
+      padding-bottom: 40px;
+      text-align: center;
+  }
+  .details{
+      padding-bottom: 40px;
+      padding-top: 40px
+  }
+  .face{
+      color: #ECD9D9;
+      text-align: center;
+  }
+span{
+    color:#C70039 ;
+}
